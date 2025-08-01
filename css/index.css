@@ -29,10 +29,10 @@
   
   
   html {
-    scroll-behavior: smooth;
-  }
-  
-  
+      scroll-behavior: smooth;
+      scroll-padding-top: 250px; 
+    }
+    
   .header-container {
     display: flex;
     justify-content: space-between;
@@ -66,17 +66,24 @@
     display: flex;
     flex-direction: row;
     align-items: center;
-    justify-content: space-around;
+    justify-content: center;
+    gap: 40px;
     padding: 20px 60px;
   }
   
   .text-content {
     max-width: 600px;
+    background-color: #1f1f1f;
+    border: 1px solid #444;
+    padding: 100px;
+    border-radius: 12px;
+    box-shadow: 0 4px 10px rgba(212, 175, 55, 0.15);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
   }
   
   
   .image-container {
-    max-width: 400px;
+    max-width: 200px;
   }
   
   .image-logo {
@@ -161,7 +168,9 @@
       justify-content: center;
       text-align: center;
       padding: 40px 20px;
-      margin-top: 200px;
+      margin-top: 350px;
+      min-height: 100vh;
+      width: 100%;
     }
   
     .image-container {
@@ -172,5 +181,6 @@
     .text-content {
       font-size: 1rem;
     }
+
   }
   
