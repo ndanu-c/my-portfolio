@@ -5,11 +5,15 @@ This site showcases my journey as a Full-Stack Developer, highlighting my educat
 
 ---
 
-## 🌍 Live Demo
+After a challenge to build a responsive simple portfolio website popped, I decided to hop in and take part
 
-🔗 [Click here to view the live site]([https://ndanu-c-portfolio.netlify.app/])  
-*(Replace with your actual Netlify, GitHub Pages, or Vercel URL)*
+---
 
+## 🌍 Here is the Live Demo
+
+🔗 [Click here to view the live site](https://ndanu-c-portfolio.netlify.app/)
+
+---
 
 ## ✨ Features
 
@@ -25,11 +29,8 @@ This site showcases my journey as a Full-Stack Developer, highlighting my educat
 
 | Area         | Tools                                      |
 |--------------|---------------------------------------------|
-| **Front-End**| HTML5, CSS3, JavaScript                     |
-| **Back-End** | PHP, Python, Java                           |
-| **Database** | MySQL                                       |
-| **Versioning**| Git, GitHub                                |
-| **Other**    | Agile Methodologies, SDLC                   |
+| **Front-End**| HTML5, CSS3                   |
+
 
 ---
 
@@ -37,17 +38,13 @@ This site showcases my journey as a Full-Stack Developer, highlighting my educat
 
 my-portfolio/
 ├── css/
-│ └── index.css
+ └── index.css
 ├── images/
-│ └── ndanu.png
+ └── ndanu.png
 ├── files/
-│ └── Christine_NdanuCV.pdf
+ └── Christine_NdanuCV.pdf
 ├── index.html
 └── README.md
-
-yaml
-Copy
-Edit
 
 ---
 
@@ -66,17 +63,19 @@ cd my-portfolio
 You can also drag the index.html file into any modern browser.
 
 📂 Sections Included
-About: A quick introduction and mission
+-**About:** A quick introduction and mission
 
-Education: Academic background
+-**Education:** Academic background
 
-Tech Stack: Languages, tools & frameworks
+-**Tech Stack:** Languages, tools & frameworks experience
 
-Projects: Selected works with links to GitHub and live demos
+-**Projects:** Selected works with links to GitHub and live demos
 
-Interests: Personal interests and values
+-**Interests:** Personal interests and values
 
-Contact: Email and GitHub profile
+-**Contact:** Email and GitHub profile
+
+---
 
 📜 Project Highlight
 🔹 Form Validation Website
@@ -88,20 +87,27 @@ GitHub: Repository
 
 Live Demo: form-validation-jscript.netlify.app
 
+---
+
 📬 Contact Me
 Email: ctinnah638@gmail.com
 
 GitHub: ndanu-c
 
+---
 🪪 License
 This project is open-source and available under the MIT License.
 See the LICENSE file for details.
 
+---
 👩🏽‍💻 Author
 Christine Ndanu
 Aspiring Full-Stack Developer | Lifelong Learner | Impact-driven Technologist
 
-“Technology is most powerful when it empowers people.”
+---
+
+
+        “Technology is most powerful when it empowers people.”
 
 
 
