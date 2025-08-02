@@ -62,18 +62,19 @@ cd my-portfolio
 ### Open index.html in your browser
 You can also drag the index.html file into any modern browser.
 
-📂 Sections Included
--**About:** A quick introduction and mission
+####📂 Sections Included
 
--**Education:** Academic background
+-**[About](https://ndanu-c-portfolio.netlify.app/#about):** A quick introduction and mission
 
--**Tech Stack:** Languages, tools & frameworks experience
+-**[Education](https://ndanu-c-portfolio.netlify.app/#education):** Academic background
 
--**Projects:** Selected works with links to GitHub and live demos
+-**[Tech Stack](https://ndanu-c-portfolio.netlify.app/#techStack):** Languages, tools & frameworks experience
 
--**Interests:** Personal interests and values
+-**[Projects](https://ndanu-c-portfolio.netlify.app/#projects):** Selected works with links to GitHub and live demos
 
--**Contact:** Email and GitHub profile
+-**[Interests](https://ndanu-c-portfolio.netlify.app/#interests):** Personal interests and values
+
+-**[Contact](https://ndanu-c-portfolio.netlify.app/#contact):** Email and GitHub profile
 
 ---
 
@@ -96,12 +97,14 @@ Email: ctinnah638@gmail.com
 GitHub: ndanu-c
 
 ---
-🪪## License
+
+##🪪License
 This project is open-source and available under the MIT License.
 See the LICENSE file for details.
 
 ---
-👩🏽‍💻## Author
+
+##👩🏽‍💻Author
 Christine Ndanu
 Aspiring Full-Stack Developer | Lifelong Learner | Impact-driven Technologist
 
