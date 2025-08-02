@@ -92,7 +92,7 @@ GitHub: Repository
 
 ## 📬Contact Me
 
-Email: [ctinnah638@gmail.com](ctinnah638@gmail.com)
+Email: ctinnah638@gmail.com
 
 GitHub:[https://github.com/ndanu-c](https://github.com/ndanu-c)
 
