@@ -106,6 +106,7 @@ See the LICENSE file for details.
 
 ## 👩🏽‍💻Author
 Christine Ndanu
+
 Aspiring Full-Stack Developer | Lifelong Learner | Impact-driven Technologist
 
 ---
