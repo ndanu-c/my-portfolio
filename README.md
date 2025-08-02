@@ -78,7 +78,7 @@ You can also drag the index.html file into any modern browser.
 
 ---
 
-##📜 Project Highlight
+## 📜 Project Highlight
 🔹 Form Validation Website
 A simple site showcasing how JavaScript is used for client-side form validation.
 
@@ -90,7 +90,7 @@ Live Demo: form-validation-jscript.netlify.app
 
 ---
 
-📬## Contact Me
+## 📬Contact Me
 
 Email: ctinnah638@gmail.com
 
