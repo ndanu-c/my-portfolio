@@ -27,9 +27,9 @@ After a challenge to build a responsive simple portfolio website popped, I decid
 
 ## 🛠 Tech Stack
 
-| Area         | Tools                                      |
+| Area         | Tools                                       |
 |--------------|---------------------------------------------|
-| **Front-End**| HTML5, CSS3                   |
+| **Front-End**| Vanilla HTML5, Vanilla CSS                  |
 
 
 ---
@@ -94,7 +94,7 @@ GitHub: Repository
 
 Email: ctinnah638@gmail.com
 
-[GitHub:](https://github.com/ndanu-c)
+GitHub:[https://github.com/ndanu-c](https://github.com/ndanu-c)
 
 ---
 
