@@ -62,7 +62,7 @@ cd my-portfolio
 ### Open index.html in your browser
 You can also drag the index.html file into any modern browser.
 
-####📂 Sections Included
+#### 📂 Sections Included
 
 -**[About](https://ndanu-c-portfolio.netlify.app/#about):** A quick introduction and mission
 
@@ -78,7 +78,7 @@ You can also drag the index.html file into any modern browser.
 
 ---
 
-📜 Project Highlight
+##📜 Project Highlight
 🔹 Form Validation Website
 A simple site showcasing how JavaScript is used for client-side form validation.
 
@@ -98,13 +98,13 @@ GitHub: ndanu-c
 
 ---
 
-##🪪License
+## 🪪License
 This project is open-source and available under the MIT License.
 See the LICENSE file for details.
 
 ---
 
-##👩🏽‍💻Author
+## 👩🏽‍💻Author
 Christine Ndanu
 Aspiring Full-Stack Developer | Lifelong Learner | Impact-driven Technologist
 
