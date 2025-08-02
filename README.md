@@ -7,17 +7,9 @@ This site showcases my journey as a Full-Stack Developer, highlighting my educat
 
 ## 🌍 Live Demo
 
-🔗 [Click here to view the live site](https://your-deployment-link.com)  
+🔗 [Click here to view the live site]([https://ndanu-c-portfolio.netlify.app/])  
 *(Replace with your actual Netlify, GitHub Pages, or Vercel URL)*
 
----
-
-## 📸 Preview
-
-![Christine Ndanu Portfolio Screenshot](images/ndanu.png)  
-*A snapshot of the About section*
-
----
 
 ## ✨ Features
 
