@@ -94,7 +94,7 @@ GitHub: Repository
 
 Email: ctinnah638@gmail.com
 
-GitHub: ndanu-c
+[GitHub:](https://github.com/ndanu-c)
 
 ---
 
