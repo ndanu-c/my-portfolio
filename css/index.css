@@ -2,185 +2,178 @@
 * {
     margin: 0;
     padding: 0;
-    box-sizing: border-box;
-  }
+    box-sizing: border-box; /* Ensures padding and border are included in the total element width/height */
+}
   
-  /* Base styles */
-  body {
-    font-family: 'Inter', sans-serif;
-    background-color: #2e2e2e;
-    color: #d4af37;
-  }
+/* Base styles */
+body {
+    font-family: 'Inter', sans-serif; /* Sets a clean, modern font */
+    background-color: #2e2e2e; /* Dark background for contrast */
+    color: #d4af37; /* Gold-like text color */
+}
   
-  h2, h3 {
-    color: aliceblue;
-    margin-bottom: 0.5rem;
-  }
+h2, h3 {
+    color: aliceblue; /* Light blue text for headers */
+    margin-bottom: 0.5rem; /* Space below headers */
+}
   
-  p {
-    font-size: 1rem;
-    margin: 10px 0;
-  }
+p {
+    font-size: 1rem; /* Standard paragraph text size */
+    margin: 10px 0; /* Vertical spacing around paragraphs */
+}
   
-  a {
-    color: #d4af37;
-    text-decoration: none;
-  }
+a {
+    color: #d4af37; /* Link color matches text color */
+    text-decoration: none; /* Removes underline from links */
+}
   
-  
-  html {
-      scroll-behavior: smooth;
-      scroll-padding-top: 50px; 
-    }
+html {
+    scroll-behavior: smooth; /* Smooth scrolling for anchor links */
+    scroll-padding-top: 50px; /* Prevents top overlap due to fixed header */
+}
     
-  .header-container {
+.header-container {
     display: flex;
     justify-content: space-between;
     align-items: center;
     background-color: #2e2e2e;
     padding: 20px 40px;
-    position: fixed;
+    position: fixed; /* Keeps the header at the top */
     width: 100%;
     top: 0;
-    z-index: 1000;
-    box-shadow: 0 4px 8px rgba(226, 149, 6, 0.89);
-  }
+    z-index: 1000; /* Ensures it stays on top */
+    box-shadow: 0 4px 8px rgba(226, 149, 6, 0.89); /* Adds depth to header */
+}
   
-  .logo {
+.logo {
     font-size: 24px;
-    font-weight: bold;
-  }
+    font-weight: bold; /* Emphasizes the logo */
+}
   
-  nav a {
+nav a {
     margin-left: 20px;
     font-size: 16px;
-    transition: border-bottom 0.3s ease;
-  }
+    transition: border-bottom 0.3s ease; /* Smooth hover effect */
+}
   
-  nav a:hover {
-    border-bottom: 2px solid #3caea3;
-  }
+nav a:hover {
+    border-bottom: 2px solid #3caea3; /* Underline appears on hover */
+}
 
-  .section {
-    height: 100vh;
+.section {
+    height: 100vh; /* Full screen height for sections */
     display: flex;
     flex-direction: row;
     align-items: center;
     justify-content: center;
     gap: 40px;
     padding: 20px 60px;
-  }
+}
   
-  .text-content {
+.text-content {
     max-width: 600px;
-    background-color: #1f1f1f;
+    background-color: #1f1f1f; /* Dark card background */
     border: 1px solid #444;
     padding: 100px;
-    border-radius: 12px;
-    box-shadow: 0 4px 10px rgba(212, 175, 55, 0.15);
-    transition: transform 0.3s ease, box-shadow 0.3s ease;
-  }
+    border-radius: 12px; /* Rounded corners */
+    box-shadow: 0 4px 10px rgba(212, 175, 55, 0.15); /* Subtle glow */
+    transition: transform 0.3s ease, box-shadow 0.3s ease; /* Smooth hover effect */
+}
   
+.image-container {
+    max-width: 200px; /* Limits logo/image size */
+}
   
-  .image-container {
-    max-width: 200px;
-  }
-  
-  .image-logo {
+.image-logo {
     width: 100%;
-    border-radius: 50%;
-    box-shadow: 0 4px 8px rgba(170, 143, 20, 0.877);
-  }
+    border-radius: 50%; /* Makes the image circular */
+    box-shadow: 0 4px 8px rgba(170, 143, 20, 0.877); /* Soft shadow around image */
+}
   
-
-  .btn {
+.btn {
     display: inline-block;
     padding: 10px 20px;
     margin-top: 15px;
-    background-color: #d4af37;
+    background-color: #d4af37; /* Gold background */
     color: #2e2e2e;
     font-weight: bold;
     text-decoration: none;
     border-radius: 6px;
-    transition: background-color 0.3s ease;
-  }
+    transition: background-color 0.3s ease; /* Smooth hover transition */
+}
   
-  .btn:hover {
-    background-color: #3caea3;
+.btn:hover {
+    background-color: #3caea3; /* Teal hover color */
     color: white;
-  }
+}
   
-
-  .project-grid {
+.project-grid {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); /* Responsive layout */
     gap: 30px;
     margin-top: 2rem;
-  }
+}
   
-  .project-card {
+.project-card {
     background-color: #1f1f1f;
     border: 1px solid #444;
     padding: 20px;
     border-radius: 12px;
     box-shadow: 0 4px 10px rgba(212, 175, 55, 0.15);
     transition: transform 0.3s ease, box-shadow 0.3s ease;
-  }
+}
   
-  .project-card:hover {
-    transform: translateY(-5px);
-    box-shadow: 0 8px 16px rgba(212, 175, 55, 0.3);
-  }
+.project-card:hover {
+    transform: translateY(-5px); /* Slight lift on hover */
+    box-shadow: 0 8px 16px rgba(212, 175, 55, 0.3); /* Stronger shadow */
+}
   
-  .project-buttons {
+.project-buttons {
     margin-top: 1rem;
     display: flex;
     gap: 15px;
-    flex-wrap: wrap;
-  }
+    flex-wrap: wrap; /* Wraps buttons to next line if needed */
+}
 
-  footer {
+footer {
     text-align: center;
     padding: 20px;
     background-color: #1f1f1f;
     font-size: 14px;
     color: #d4af37;
-  }
+}
   
-  
-  @media (max-width: 768px) {
+@media (max-width: 768px) {
     .header-container {
-      flex-direction: column;
-      align-items: flex-start;
-    }
-  
-    nav {
-      margin-top: 10px;
-    }
-  
-    nav a {
-      display: block;
-      margin: 10px 0;
-    }
-  
-    .section {
-      flex-direction: column;
-      justify-content: center;
-      text-align: center;
-      padding: 40px 20px;
-      margin-top: 300px;
-      min-height: 100vh;
-      width: 100%;
-    }
-  
-    .image-container {
-      margin-top: 20px;
-      width: 80%;
-    }
-  
-    .text-content {
-      font-size: 1rem;
+        flex-direction: column;
+        align-items: flex-start; /* Stacks header items vertically */
     }
 
-  }
-  
+    nav {
+        margin-top: 10px;
+    }
+
+    nav a {
+        display: block;
+        margin: 10px 0; /* Adds vertical spacing for stacked links */
+    }
+
+    .section {
+        flex-direction: column;
+        justify-content: center;
+        text-align: center;
+        padding: 40px 20px;
+        margin-top: 300px; /* Offsets for fixed header */
+        min-height: 100vh;
+        width: 100%;
+    }
+
+    .image-container {
+        margin-top: 20px;
+        width: 80%;
+    }
+
+    .text-content {
+        font-size: 1rem;
+    }
+}
