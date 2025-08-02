@@ -86,7 +86,7 @@ Role: Front-End Developer
 
 GitHub: Repository
 
-[Live Demo:](form-validation-jscript.netlify.app)
+[Live Demo:](https://form-validation-jscript.netlify.app/)
 
 ---
 
