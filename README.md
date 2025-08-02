@@ -89,19 +89,19 @@ Live Demo: form-validation-jscript.netlify.app
 
 ---
 
-##📬 Contact Me
+📬## Contact Me
 
 Email: ctinnah638@gmail.com
 
 GitHub: ndanu-c
 
 ---
-##🪪 License
+🪪## License
 This project is open-source and available under the MIT License.
 See the LICENSE file for details.
 
 ---
-##👩🏽‍💻 Author
+👩🏽‍💻## Author
 Christine Ndanu
 Aspiring Full-Stack Developer | Lifelong Learner | Impact-driven Technologist
 
